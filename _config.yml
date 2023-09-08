@@ -1,8 +1,8 @@
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            'Chris Belanger'
+tagline:          'Digital marketer, coder, and mentor'
+description:      '25+ years spent helping people build multi-million dollar tech companies taught me a few things.<br><br>Let me share some of them with you.'
+url:              https://www.chrisbelanger.com
 baseurl:          /
 
 paginate:         5
