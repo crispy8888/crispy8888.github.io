@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Chris Belanger</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2023-09-13T10:25:56-03:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name>Chris Belanger</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>The Lazy Entrepreneur's Guide to Building a Product-Based Business in 2023</title>
+   <link href="http://localhost:4000/2023/09/12/the-reluctant-entrepreneurs-guide-to-mvp/"/>
+   <updated>2023-09-12T00:00:00-03:00</updated>
+   <id>http://localhost:4000/2023/09/12/the-reluctant-entrepreneurs-guide-to-mvp</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/crispy8888_building_a_business_abstract_0d1fdb3f-c7ad-408a-b234-7e24d929a4c4.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;There are lots of qualities that you need in order to build a successful business. Tenacity. Vision. Imagination. Execution.&lt;/p&gt;
+
+&lt;p&gt;I’m not sure if I have those qualities, but I am proud to say that I’m “lazy” and “cheap”. Those qualities aren’t commonly quoted by amongst the #hustle crowd, but that’s what I have at my disposal, so hey-ho, here we go.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;I’m smack in the middle of building a consumer goods business based around high-powered diode laser engraving. (Did I also mention that I have a terrible habit of taking the safety guards off of all of my dangerous tools? Add “foolhardy” to “lazy” and “cheap”.)&lt;/p&gt;
+
+&lt;p&gt;I’ve only spent mayyybe about 15 hours total on ramping this business up, and if things go well (and I don’t laser off any large appendages in the process) then it should be live this week.&lt;/p&gt;
+
+&lt;p&gt;What I find interesting, though, is two things: (a) how many different tech platforms I’m using to support the business, and (b) how easy and cheap most of those platforms are to set up for a SMB.&lt;/p&gt;
+
+&lt;p&gt;I thought you might be interested to see how I built this business, from the strategy, to the tech platforms I used, to the things that I &lt;em&gt;didn’t&lt;/em&gt; do.&lt;/p&gt;
+
+&lt;p&gt;So here are my rough notes on how I built out this business for your benefit. Best consumed with a grain of salt. 🧂&lt;/p&gt;
+
+&lt;h2 id=&quot;what-you-need-to-bootstrap-your-consumer-goods-based-business-as-an-mvp&quot;&gt;What you need to bootstrap your consumer-goods based business as an MVP&lt;/h2&gt;
+
+&lt;p&gt;Oh, the arguments I’ve had over the years about what constitutes a true Minimum Viable Product. Oh my oh my.&lt;/p&gt;
+
+&lt;p&gt;But this is my site, and it’s my business, so here’s my personal definition of what should be in an MVP, at least when it comes to online businesses in the consumer goods space:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A straightforward Unique Selling Proposition (USP)&lt;/li&gt;
+  &lt;li&gt;Enough polish to your online presence to not look any worse than your competitors&lt;/li&gt;
+  &lt;li&gt;A “good-enough” logo and branding&lt;/li&gt;
+  &lt;li&gt;A business name that you don’t have to explain †&lt;/li&gt;
+  &lt;li&gt;Communication channels for the business that won’t gum up my own personal communications&lt;/li&gt;
+  &lt;li&gt;Accounting and inventory packages that don’t get in the way&lt;/li&gt;
+  &lt;li&gt;Email, phone number or SMS collection facility&lt;/li&gt;
+  &lt;li&gt;Capital †† and equipment †††&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;† The best business names&lt;/strong&gt;, when you’re starting out, are &lt;em&gt;ones that you don’t have to explain&lt;/em&gt;. You want people to know &lt;em&gt;immediately&lt;/em&gt; what your business offers. 
+Does that result in a boring name? Possibly. Does it matter? Not usually. Does it make registering your business easier with various governmental authorities? Almost always.&lt;/p&gt;
+
+&lt;p&gt;Honestly, one of the best business names I’ve seen is on a sign tacked to a telephone pole just down the road from my house. All it states is “Dave’s Stump Grinding” and a phone number. You know instantly who you’re talking to (Dave), what the offer is on the table (getting your stumps ground) and a number to call.&lt;/p&gt;
+
+&lt;p&gt;When you’re a multimillion-dollar global concern, &lt;em&gt;then&lt;/em&gt; you can worry about branding and naming and trademarking and shit like that. But for now? Keep it simple.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;†† A lot of people say that the best businesses to start&lt;/strong&gt; are those that don’t need &lt;em&gt;any&lt;/em&gt; capital, and they’re right. Start a service-based or information-based business as your first gig and keep at it, because it will have infinite ROI and a hella-easy accounting system (send out invoices, pay your taxes, and done).&lt;/p&gt;
+
+&lt;p&gt;But if you’re looking to build your business to sell down the road (and if you’re not planning on that, you should be), small to medium service-based businesses are a &lt;em&gt;hard&lt;/em&gt; sell, especially when the founder still plays a big role in the day-to-day of the company. That’s a whole other article in itself. And when I refer to “capital” here, I’m talking about owner capital. Do &lt;em&gt;not&lt;/em&gt; go get a loan to start a small consumer goods business. Or maybe any business, unless you know exactly what you’re doing. There are lots of bootstrapping and fund-finding opportunities that you can take advantage of right now that don’t require bank loans.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;††† Investing in equipment&lt;/strong&gt; is not necessarily a &lt;em&gt;bad&lt;/em&gt; thing when it comes to starting a business. Equipment is one of those real and tangible artifacts from the brick and mortar days that banks and the tax people understand innately. You can write off the depreciation on your taxes, it is easy to use as part of valuing the business, and if things go south, you can even sell it to minimize your losses or to free up cash that you can use in other areas of the business. As long as the equipment is still functional, that is, so keep it in good order.&lt;/p&gt;
+
+&lt;p&gt;And yes, I &lt;em&gt;could&lt;/em&gt; have outsourced the value-add part of this business to avoid buying equipment, but (a) I like tinkering, so don’t take that away from me, and (b) at the moment I am simultaneously the cheapest and most expensive person I can hire right now. I have a surplus of time, so I’m choosing to burn that instead of burning capital.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-you-dont-need-to-start-your-business-not-yet-anyway&quot;&gt;What you don’t need to start your business (not yet, anyway)&lt;/h2&gt;
+
+&lt;p&gt;You don’t have funding to burn. Here’s a short and incomplete list of what you &lt;em&gt;don’t&lt;/em&gt; need to start your business. (Did I mention you don’t have funding to burn?)&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Business cards. No one uses these anymore. Now, I &lt;em&gt;will&lt;/em&gt; talk leave-behind cards in a bit (which come in business card format) but they’re different and don’t need to be procured until later in the process. Spend zero time designing a business card right now.&lt;/li&gt;
+  &lt;li&gt;A new computer. Most of what I will cover in this series about business-building can be done from your mobile phone, and a computer with a browser. I suspect even a cheap Chromebook might work.&lt;/li&gt;
+  &lt;li&gt;A new phone. What you have right now will work just fine. And you don’t need “a separate line for business”. I’ll cover “business phone numbers” later in this series.&lt;/li&gt;
+  &lt;li&gt;An office or a co-working space. If you can’t work from home, find a separate, quiet place to work, like the library (which has free computers for your use), or a quiet coffee shop or something.&lt;/li&gt;
+  &lt;li&gt;A designer or branding agency or anything like that. In 2023 you don’t need to be a designer; you just need to have an eye for “yeah, that doesn’t look like total shite.”&lt;/li&gt;
+  &lt;li&gt;Stickers or water bottles or an embroidered shirt or any swag like that.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In short, you need to be &lt;em&gt;brutally honest&lt;/em&gt; when looking at what you need to launch a business. It’s easy to get carried away at “playing business” but the fact is that you aren’t really in business until the revenue starts to flow. Before that, you’re just goofing off.&lt;/p&gt;
+
+&lt;h2 id=&quot;knowing-where-the-good-enough-line-is&quot;&gt;Knowing where the “good enough” line is&lt;/h2&gt;
+
+&lt;p&gt;I think sometimes people aren’t quite sure about where the “good enough” line sits for launching a small business. I have friends who have invested nearly $10,000 into their business through talking to lawyers, hiring a developer, and engaging a design and branding firm &lt;em&gt;without even knowing if their idea was viable&lt;/em&gt;. What’s implicit here is that you should be launching a consumer goods business that’s already been proven and has some competition out there. Because if multiple people are doing it and seem to be viable, &lt;em&gt;they’ve already tested out the idea for you&lt;/em&gt;. Take a page out of the late Steve Job’s playbook and take inspiration from the businesses around you — and then iterate on existing ideas. That’s where success is to be found.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-rest-of-this-series&quot;&gt;The rest of this series&lt;/h2&gt;
+
+&lt;p&gt;As this intro post is getting long, I’ll be dropping future articles in this series several times a week, as I get to them. I hope it’s a good read, and I hope you find it useful.&lt;/p&gt;
+
+&lt;p&gt;Other articles in this series:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Coming soon&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Where to Go From Here?</title>
+   <link href="http://localhost:4000/2023/09/08/where-to-go-from-here/"/>
+   <updated>2023-09-08T00:00:00-03:00</updated>
+   <id>http://localhost:4000/2023/09/08/where-to-go-from-here</id>
+   <content type="html">&lt;p&gt;A ship is safe in the harbor,&lt;/p&gt;
+
+&lt;p&gt;But that’s not what ships are built for.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Because in the sum of our human gleams,&lt;/p&gt;
+
+&lt;p&gt;We have created the vessel for our dreams.&lt;/p&gt;
+
+&lt;p&gt;Its purpose: to retrieve the alien shore,&lt;/p&gt;
+
+&lt;p&gt;To scout, seek, achieve and explore.&lt;/p&gt;
+
+&lt;p&gt;A ship is meant to fly and fly,&lt;/p&gt;
+
+&lt;p&gt;To seize the horizon and capture the sky.&lt;/p&gt;
+
+&lt;p&gt;And the few of us with the intrepidity,&lt;/p&gt;
+
+&lt;p&gt;To brave the virulent vortex velocity&lt;/p&gt;
+
+&lt;p&gt;We are the wealthiest of men ever to dream&lt;/p&gt;
+
+&lt;p&gt;And ever to combat a sea or a stream.&lt;/p&gt;
+
+&lt;p&gt;And the harbored ships that fritter away,&lt;/p&gt;
+
+&lt;p&gt;Slowly begin to rot and decay.&lt;/p&gt;
+
+&lt;p&gt;Never has there been a greater waste of a day,&lt;/p&gt;
+
+&lt;p&gt;Than that spent harbored,&lt;/p&gt;
+
+&lt;p&gt;Than those of us who stay.&lt;/p&gt;
+
+&lt;p&gt;-Gael Attal&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>

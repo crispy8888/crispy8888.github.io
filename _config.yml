@@ -1,7 +1,7 @@
 # Setup
 title:            'Chris Belanger'
 tagline:          'Digital marketer, coder, and mentor'
-description:      '25+ years spent helping people build multi-million dollar tech companies taught me a few things.<br><br>Let me share some of them with you.'
+description:      '25+ years spent helping people build multi-million dollar tech companies taught me a few things.<br><br>Let me share some of those things with you.'
 url:              https://www.chrisbelanger.com
 baseurl:          /
 
@@ -12,6 +12,7 @@ plugins:
   - jekyll-gist
   - jekyll-paginate
   - jekyll-seo-tag
+  - jekyll-feed
 
 gems:
   - jekyll-seo-tag
@@ -40,6 +41,9 @@ author:
   name: Chris Belanger
   url: https://twitter.com/crispytwit
 
+# Excerpts
+page_excerpts:      true
+excerpt_separator:  <!--more-->
 
 # Dependencies
 markdown:         kramdown

@@ -4,9 +4,13 @@
       <h1>
         <a href="{{ site.baseurl }}">
           {{ site.title }}
+          <a href="/about">
+            <img src="/assets/images/chris-belanger-profile.jpg"/>
+          </a>
         </a>
       </h1>
       <p class="lead">{{ site.description }}</p>
+
     </div>
 
     <nav class="sidebar-nav">
@@ -23,7 +27,8 @@
           {% endif %}
         {% endif %}
       {% endfor %}
-
+      <a href="https://s3.us-east-2.amazonaws.com/chrisbelanger.com/ChrisBelangerCV2023-09.pdf">Current CV</a>
+      <a href="/feed.xml">Atom/RSS</a>
     </nav>
 
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
