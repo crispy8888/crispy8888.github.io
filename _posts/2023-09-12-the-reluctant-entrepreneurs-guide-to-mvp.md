@@ -2,13 +2,15 @@
 layout: post
 title: The Lazy Entrepreneur's Guide to Building a Product-Based Business in 2023
 comments: true
+image: /assets/images/crispy8888_building_a_business_abstract_0d1fdb3f-c7ad-408a-b234-7e24d929a4c4
+description: There are lots of qualities that you need in order to build a successful business. Tenacity. Vision. Imagination. Execution. But what about "lazy" and "cheap"?
 ---
 
 ![image](/assets/images/crispy8888_building_a_business_abstract_0d1fdb3f-c7ad-408a-b234-7e24d929a4c4.jpg)
 
 There are lots of qualities that you need in order to build a successful business. Tenacity. Vision. Imagination. Execution.
 
-I'm not sure if I have those qualities, but I am proud to say that I'm "lazy" and "cheap". Those qualities aren't commonly quoted by amongst the #hustle crowd, but that's what I have at my disposal, so hey-ho, here we go.
+I'm not sure if I have those qualities, but I am proud to say that I'm "lazy" and "cheap". Those qualities aren't commonly quoted amongst the #hustle crowd, but that's what I have at my disposal, so hey-ho, here we go.
 
 <!--more-->
 
