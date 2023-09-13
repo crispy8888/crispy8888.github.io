@@ -23,4 +23,4 @@ You can get a hold of me in a few ways:
 
 (click to read)
 
-[![image](/assets/images/ChrisBelanger2023CV-page1.jpg)](https://s3.us-east-2.amazonaws.com/chrisbelanger.com/ChrisBelangerCV2023-09.pdf)
+[![image](/assets/images/ChrisBelangerCV2023-09-NA-0001.jpg)](https://s3.us-east-2.amazonaws.com/chrisbelanger.com/ChrisBelangerCV2023-09-NA.pdf)
