@@ -2,7 +2,6 @@
 title:            'Chris Belanger'
 tagline:          'Digital marketer, coder, and mentor'
 description:      '25+ years spent helping people build multi-million dollar tech companies taught me a few things.<br><br>Let me share some of those things with you.'
-url:              'https://www.chrisbelanger.com'
 baseurl:          '/'
 
 paginate:         5
