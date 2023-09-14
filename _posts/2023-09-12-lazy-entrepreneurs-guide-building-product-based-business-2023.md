@@ -77,7 +77,8 @@ As this intro post is getting long, I'll be dropping future articles in this ser
 
 Other articles in this series:
 
-- Coming soon
+1. [How to Create a Straightforward Unique Selling Proposition](/2023/09/14/how-to-create-straightforward-unique-selling-proposition/)]
+2. TBD
 
 
 
